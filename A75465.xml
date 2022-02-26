@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An antidote against an infectious aire. Or a short reply of wel-wishers unto the good and peace of this kingdome; unto the declaration of the 11th of February, 1647.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75465</idno>
+            <idno type="STC">Wing A3491</idno>
+            <idno type="STC">Thomason E427_18</idno>
+            <idno type="STC">ESTC R22836</idno>
+            <idno type="EEBO-CITATION">99871842</idno>
+            <idno type="PROQUEST">99871842</idno>
+            <idno type="VID">124259</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75465)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124259)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 67:E427[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An antidote against an infectious aire. Or a short reply of wel-wishers unto the good and peace of this kingdome; unto the declaration of the 11th of February, 1647.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, MDCXLVII. [1647, i.e. 1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: A declaration of the Commons of England in Parliament assembled; expressing their reasons and grounds of passing the late resolutions touching no further address or application to be made to the King.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Annotation on Thomason copy: "Feb: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>England and Wales. --  Parliament. --  House of Commons. --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Treaties --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124259:1" rendition="simple:additions"/>
+            <p>AN ANTIDOTE AGAINST An Infectious Aire.</p>
+            <p>OR A Short Reply of Wel-wiſhers unto the Good and Peace of this Kingdome; Vnto the Declaration of the 11<hi rend="sup">th</hi> of February, 1647.</p>
+            <q>
+               <p>Is it fit to ſay unto a King thou art wicked, or to Princes ye are ungodly?</p>
+               <bibl>
+                  <hi>Job 34.18.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Yeare, MDCXLVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:124259:2"/>
+            <pb facs="tcp:124259:2"/>
+            <head>A briefe Reply to the Declaration of the Houſe of Commons.</head>
+            <p>VVE have read your Declaration, and have thought good to give you this ſhort account of thoſe impreſſions that it hath left with us. Wee find it of that nature, that it would faine prompt others to thinke more than it ſelfe dares ſpeake or utter, and yet ſpeakes much more than it proves. But though we ſhould take all inſinuations for aſſer<g ref="char:EOLhyphen"/>tions, and all aſſertions for probations, we cannot ſee how all together would be ſufficient to bring home the concluſions: neither that which is expreſly ſet downe as the profeſſed drift of the whole Booke: nor yet thoſe that it is farther to uſher in: The great ſinew of that Body: The maine wheele or ſpring of your Engine, which if any thing muſt doe your feat of diſ-uniting the hearts of the Kingdome from his Majeſty, and juſtifying your profeſſed rejection of him, is that which concerneth the death of the late King. A matter in deed of a very high nature; and though you are loth to expreſſe your ſelves therein, yet it is not hard to diſcerne what thoughts you would thereby commend unto us. But if you can clearly make good what you intend, why did you not ſpeake it plainly? If you cannot, why doe you goe about by malicious art to in<g ref="char:EOLhyphen"/>ſinuate that which you are not able to make good? Men that are under the power of others, uſe indeed ſometimes to ſpeake timorous verities: But where men armed with greatneſſe and ſtrength, ſpeake fearefully, there the Truth is in danger.</p>
+            <p>But doe you beleeve, or can you thinke to perſwade us, that the honour of ſo great a King, or his juſt power and Rights, are to be laid under foot upon ſurmiſes? upon quodlibeticall and uncertaine conjectures, whoſe grounds and foundations are rather in the conceits and apprehenſions of men variable according to the variety of their affections, than in the reality of things or actions? When events are liable to divers cauſes, and thoſe that have their reſidence within the breaſts of men, to fixe them upon one without any ſound reaſon for the choice, but becauſe it ap<g ref="char:EOLhyphen"/>pearres moſt ſerviceable to our purpoſes, is a fallacy of too open a collu<g ref="char:EOLhyphen"/>ſion; That we ſhould truſt our judgements with it in ſo great a matter; and therefore ſince you have proved nothing againſt his Majeſty, in that particular, we cannot but inferre, that all that you want of evidence againſt him lyeth againſt your ſelves, and doth convince you to have committed as high an offence againſt the duty of Subjects, at againſt the candour of Chriſtians.</p>
+            <pb facs="tcp:124259:3"/>
+            <p>As for us, The pious life of his Majeſty; His exemplary carriage in the whole demeanour of his life The quiet and undiſturbed temper of his mind, notwithſtanding the ſurly ſtormes wherewith he hath been at<g ref="char:EOLhyphen"/>tempted: His mercy toward others, even toward his enemies, unlikely to conſiſt with ſuch horrid cruelty towards his owne — His conſtancy and undauntedneſſe of ſpirit in his ſufferings, together with his great and commemorable patience; aſſiſted with the great improbability of the act, as having in it too little an hire of advantage to procure the undertaking of ſo high an impietie, as that which brought a farre greater addition of burden than honour upon his back: The conſideration of the deare affe<g ref="char:EOLhyphen"/>ction between him and his Royall Father, never interrupted by any di<g ref="char:EOLhyphen"/>ſtaſte likely to hatch ſuch a viper in ſo noble a breaſt. Theſe and many more together, with the higheſt engagement of Chriſtian charity to our King, as they doe bind us, and even inforce us to abhominate and abhorre the thought of that thought, which you ſeeme to deſire to infuſe into us, and to keep our breaſts armed and grounded, however you have or may diſarme us otherwiſe againſt any inſinuations that may lead us therunto:</p>
+            <p>So when we conſider the rules and practices of ſome Politicians, and the nature of man, which is obſerved to be ſuch, as it is apt to hate thoſe whom they have wronged, and to wrong them more; when we conſider what hath been done already, what is dayly done, and what it is ſome mens intereſt, as the world judgeth of Intereſts to do: we cannot but encline to adhere rather unto this choice, to beleeve it much more likely that ſuch a thing may be forged by ſome againſt him, than that he could commit ſuch a thing againſt his Father without any ſuch inducements either of revenge or intereſt: and where the guilt of this is now let the world judge, and which is the greater offence of the two.</p>
+            <p>But ſecondly, in caſe it could be proved, and ſo fully, ſo demonſtra<g ref="char:EOLhyphen"/>tively proved, as is requiſite to overcome that large portion of Charity which is due unto a King above all other ſorts of men, and to him for ought we know above all other Kings, much the more for the ſad con<g ref="char:EOLhyphen"/>dition wherein you keepe him, ſo clearly as to be victorions over ſo many and ſo diſſwaſive improbabilities that preſent themſelves in array againſt it: we ſhould indeed even then admit it with great reluctancy, as a truth that it might be thought a kind of impiety to underſtand; wee ſhould then (when we muſt needs) looke upon it as a ſad and great affli<g ref="char:EOLhyphen"/>ction unto our Nation, and as a great cauſe of humiliation (not of tri<g ref="char:EOLhyphen"/>umph or inſulting) unto us; That God ſhould ſuffer our King to fall into ſuch a depth of impiety, for the ſins of the Magiſtrate as of the Mini<g ref="char:EOLhyphen"/>ſter,
+<pb facs="tcp:124259:3"/>are uſually the judgements of the people for their ſins: But yet nevertheleſſe, we ſhould hold it our duty even in that caſe to cry out with the holy Prophet, <hi>Micha</hi> 7.9. <hi>We will beare the indignation of the Lord, becauſe we have ſinned againſt him,</hi> &amp;c. And to let our ſelves to the duties of Faſting, and Prayers, and Teares, for the lamentation and expiation of ſo horrid an iniquity from his Majeſtie and the Kingdome. But we could not be perſwaded that it were a Chriſtian courſe for us to make His iniquity the countenance or excuſe of ours: or admit it as a ſuperſedeas or diſcharge of the bond of our allegeance, though it ſhould render it indeed much diſcomfortable unto us; for as a Child owes his filiall honour and obedience not to a good Father, but to a Father, be he good or bad: ſo Subjects their allegrance not to a good King but to the King: and though wee deny not but Potentates may forfeit their Crownes by their impieties, yet the holy Word of God leades us to be<g ref="char:EOLhyphen"/>leeve that none is thereby enabled to take that forfeiture but God; <hi>Saul</hi> forfeited his Crowne by his Sacrilegious intruſion into the Office and Function of the Prieſthood, 1 <hi>Sam.</hi> 13 8. &amp;c. and doubled that forfeiture by his diſobedience unto the Command of God concerning <hi>Agag</hi> and the ſpoile, 1 <hi>Sam.</hi> 1<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.9. &amp;c. And God both times proceeds to ſentence againſt him: but yet none muſt take the forfeiture, nor put the Sentence in execution, till God himſelfe was pleaſed to do it: And therefore notwithſtanding all that, <hi>David</hi> durſt not lift up his hand againſt him, 1 <hi>Sam.</hi> 24. &amp; 26. <hi>David</hi> himſelfe afterwards, though an holy man, yet was ſo far left unto himſelfe for a time by God, that he fell into two horrid and unworthy ſinnes: baſe in the eyes of men as well as hainous in the ſight of God: Firſt, committing adultery with <hi>Bathſhcha,</hi> at ſuch a time when her husband whom he ſo vilely wronged therein, was imployed in the hazarding of his life to doe his ſervice; and then to cover that, treacherouſly contriving and procuring his murther: and yet this was no good plea to juſtifie <hi>Abſalom</hi> or the ſonne of <hi>Bichri</hi> in their rebellions: no nor yet <hi>Shimei</hi> in his foule-mouthed railing againſt him for it: But all of them were in their times overtaken with their re<g ref="char:EOLhyphen"/>wards: and <hi>David</hi> yet ended his dayes in peace, being reconciled to God by his repentance. <hi>Nero</hi> was as it were a Devill incarnate, ſo had, that his wickedneſſe added glory to the perſecutions of thoſe that ſuffered by him: And <hi>Tertullian</hi> uſeth it as an argument to prove Chriſtianitie to be good, becauſe <hi>Nero</hi> oppoſed it: He made it his ſport to ſee his owne Imperiall City ſet on fire before his face: and then when he had done, cauſed it moſt falſly and moſt wickedly to be laid upon the Chriſtians.
+<pb facs="tcp:124259:4"/>And embrued his hands in the bloud of his owne Mother: and yet it is obſerved this very <hi>Nero</hi> was then Emperour and Governour of the Re<g ref="char:EOLhyphen"/>manes at that very time when Saint <hi>Paul</hi> wrote unto them to be ſubject unto <hi>the higher powers:</hi> and tels them withall, that <hi>whoever reſiſts ſhall receive to himſelfe damnation.</hi> Let not any thinke that in this we plead for the wickedneſſe of Kings: we are ſo farre from it, that as we doe beleeve the ſame ſinnes to be more hainous in them then in other men, and that their very iniquities contract greatneſſe from their greatneſſe: ſo we know and wiſh they may alwayes remember that their puniſh<g ref="char:EOLhyphen"/>ments, if they take not heed, will keep the proportion too, and prove that ſentence Canonicall, though it be written in the Apocrypha, <hi>that great men ſhall be greatly torme<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ted;</hi> ſo that they ſhall get nothing by their impunitie from men. Neither is it for their ſakes, but for others that they are ſo priviledged: For the preſervation of Government, which is the good of the people.</p>
+            <p>Nor would we wiſh any to imagine that we thinke theſe patternes of wickednes have any ſuch paralells in his ſacred Majeſties ſtory, if it may be truly ſet down as ſome would perſwade, but only to ſhew the unfor<g ref="char:EOLhyphen"/>cibleneſſe of ſuch kind of deductions as our dayes have produced: and if it may be, to prevent the like hereafter. And to ſhew you here, that the Kings Right unto his Crowne and Government is entire againſt all that you have ſaid, though it could be made appeare (which God forbid we ſhould imagine) and if ſo, than there is no ground for us either to with<g ref="char:EOLhyphen"/>draw our Allegiance from him: nor is there any juſtification to be found for your ſtrange, undutifull, and we thinke unpatterned reſolutions: Wherein you that are ſubjects, and in the higheſt conſideration of your unlapſed Being; but the great Councell of the King have reſolved, not only to make no more addreſſes to him, but to receive no Meſſages from him; ſo that if he ſhould happily learne ſo much humility more by his ſufferings, as to petition you for food or raiment, or to obtaine a Phyſi<g ref="char:EOLhyphen"/>tian for his body, in caſe of ſickneſſe, or a Divine for his ſoule in another caſe, or in any other way wherein the good of the Kingdome may be concerned never ſo much; yet like the Adder you have ſtopt your eares againſt him, and forbidden all others under the danger of the penalties of Traitors (a ſtrange puniſhment for ſuch a ſinne) not to receive any Meſſages from him, nor to make any unto him.</p>
+            <p>As if to impriſon your King, to baniſh Him into an Iſland, to Sequeſter Him from the comforts of His Wife, His Children, His Friends, His Servants; to deprive Him of the very means of His Salvation, by denying Him the aſſiſtance of His Chap<g ref="char:EOLhyphen"/>laines: as if all this and much more were nothing, unleſſe you did withall interdict
+<pb facs="tcp:124259:4"/>Him all Society of Mankind: the monſtious injuſtice and cruelty whereof we may well wiſh had rather been found amongſt Purkes and Heathens thou us: and grieve that it ſhould pollute any Chriſtian and Engliſh Story; But that we may ſave you the labour of ſtudying, or troubling your ſelves overmuch about the diſpoſing of the Government of this Kingdome; we deſire you to remember, that whenſoever, and by what meanes ſoever the Lord ſhall pleaſe to put a period unto the Raigne of His Majeſtie, we are ſufficiently inſtructed who it is that is immediately to ſucceed Him in the Government; ſince we haue not yet forgetten by his long and forced abſence, that we have a Noble Prince in the world, deſcended from the bloud not only of the Ancient Kings of theſe Nations, in ſo continued and unqueſtionable a deſcent, as is enough to ſtop the mouth of malice it ſelfe; but alſo from the Loynes of many glori<g ref="char:EOLhyphen"/>ous Forraine Kings, whoſe Intereſt God defend we ſhould have any thought of vio<g ref="char:EOLhyphen"/>lating, or conſenting with any that ſhall attempt i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: and whilſt it is ſo, there is no imaginable he mane Act or accident that can put the Government of this Nation in<g ref="char:EOLhyphen"/>to your hands, or leave it to your diſpoſing So that your concluſions that you draw ſo hard for, that you have even broken your Geeres, ſtick ſtill in the mire, and you are run away without them, gingling your Bells as if all were at your heeles: we are ſtill to ſeeke for a ſound reaſon why the King ſhould be ſecluded from His Govern<g ref="char:EOLhyphen"/>ment, or from the addreſſes of a Parliament unto Him, whoſe very Eſſence depends upon a correſpondence and communion with him, ſince it is their very Parliamentary being to be His Councellers; which cannot ſtand with a profeſſed interception of ad<g ref="char:EOLhyphen"/>dreſſes unto Him, and from Him; nor yet it that were as you would have it, were we to expect a new way of Government or Governours from you. And if the Giant and the <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hilles</hi> of your Declaration, with all the allowances that can be admitted is ſo weake, much leſſe will your purpoſes lind a For reſſe in any thing elſe that you have ſaid, which for our ſelves we have no power to examine; nor have we found truth and ſidelity ſo conſtant a Companion with all things that have been averred with much confidence in theſe times, as to depend in this upon bare avercoments; <hi>Si ſatis eſt accuſaſſe, quis taudem innocens?</hi> God himſelfe ſhould not be innocent, if to be accuſed were to be convicted; we hold it therefore moſt unjuſt and unreaſonable for us to admit any of thoſe aſperſions which you have laid upon His Majeſty into our beliefe, or to make any reſults at all upon them in the leaſt degree prejudiciall to His Majeſtie in our opinions, untill we ſhall ſee as well what His Majeſtie can an<g ref="char:EOLhyphen"/>ſwer, as what you have objected againſt Him; for ſince it is a juſtice not to be denied to the meaneſt of Subjects, nay, to the greateſt ſlaves, that they have liberty to ſpeake for themſelves, before judgment be given upon their accuſation: we muſt tell you that we hold it a thing againſt all equity and right, for you to take the freed<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>e to ſay what you pleaſe againſt His Majeſty, and in the meane time to keepe Him in that re<g ref="char:EOLhyphen"/>ſtraint, that He can neither know what you have objected, nor hath liberty to make His Anſwer thereunto; We do therefore deſire it of you in point of juſtice to His Majeſtie, and in regard of ſatisfaction to our ſelves, that this Declaration of yours may be ſpeedily communicated to His Majeſtie, and that He may have free liberty (with the helpe of ſuch Secretaries, and others that ſhall be needfull, to helpe His Memorie, and to do Him other requiſite ſervice therein,) to make what Anſwer He ſhall thinke fit thereunto: and that the ſaid Anſwer may be as freely publiſhed and peruſed as this your Declaration. If you ſhall deny us this, we ſhall have ſo much the more reaſon to continue and augment our ſuſpitions: That there was too much gall in that inke that wrote thoſe lines which you have ſent abroad, and that they are not of ſuch ſolid matter as to endure the examination and tryall of a juſt Reply, and ſhall therfore endeavour to baniſh all other impreſſions thereof from us, but of hatred unto ſuch unrighteous practiſes, and that which we ſhall now briefly ſet downe:</p>
+            <pb facs="tcp:124259:5"/>
+            <p>Firſt, that we beleeve it not impoſſible, nor a thing to be much wondred <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by us, or to ſtick by us in any great prejudice to his Majeſty: That the ſad condition and mani<g ref="char:EOLhyphen"/>fold difficulties wherewith his Majeſty hath encountred through the miſcarriages of others, have found him a man: and therefore (poſſibly) have driven him ſome times into ſome refuges that were not ſo proper for him at other times, and in another temper of things: as we have obſerved many miſcarriages perhaps in others, on leſſe temptations.</p>
+            <p n="2">2. That in the mannage of ſuch affaires which his Majeſty hath been put upon: and in ſuch a crowd of extraordinary and various exigents, it was not alwaies poſſible for His Majeſtie to do all things with His owne hand, or to examine all things by His owne are or judgement, that have paſſed as His Acts: many things were neceſſary to be committed to the truſt of others: and if perhaps any of them have failed therein, we dare not lay this to the charge of His Majeſtie.</p>
+            <p n="3">3. Therfore we conceive in all equity, that his Majeſty ought not to be judged of by us or his people, by the paſſages that have fallen out in this diſtemper of his Raign. As we judge not of the complexion of bodies in their diſtempers, but in their naturall and healthfull conſtitutions, and therfore we conceive all or the greateſt part that hath fallen out in this buſines, though it did appeare (as it doth not,) ought to have bin left out of your Declaration.</p>
+            <p n="4">4. And then fourthly, we can remember or find ſo little before theſe times, that hath not been repaired abundantly, or ſatisfied by his Majeſty, that we can find nothing to reſt an evill thought againſt him juſtly thereupon.</p>
+            <p n="5">5. That wee find in the recollection unto our memories, of divers paſſages that have of late fallen from his Majeſty: That you have no ſuch cauſe as you pretend to com<g ref="char:EOLhyphen"/>plaine of his obſtruction of Peace, ſince we have found him willing as appeareth by his late Meſſages unto you: To ſacrifice all his owne power and greatneſſe upon the matter, (more for ought we find than ever any King yet offered) to the peace and pre<g ref="char:EOLhyphen"/>ſervation of us his people: And that the maine things that he ſtands upon, are the in<g ref="char:EOLhyphen"/>tereſt of his people in Religion and Liberty, and the intereſt of his ſonne, and not his own, and we ſhould be moſt unthankfull ſhould we deſert him for ſeeking to guard as in thoſe things which are ſo precious unto us.</p>
+            <p n="6">6. That we are upon good grounds ſo well perſwaded of his Majeſty, that we doubt not but very much of what is charged againſt him will fall ſhort of evidence: and are the iſſues of her of miſ-information or miſ-interpretation.</p>
+            <p>And laſtly, we deſire to let you know that our Allegiance is yet unmoved by this battery: ſo farre that we doe yet deſire of you the reſtitution of our King, and that his may be admitted to a perſonall Treaty; that we may enjoy againe the benefit of that happy Government which hath <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſo proſperous and comfortable unto us. And that you will not to make good your own ends and purpoſes, expoſe us unto the hazard or another bloudy warre, leſt your ſelves be partakers of the evils thereof. Aſſuring you, that although we know not what God may permit you to force us unto otherwiſe by that power which you have, with other colours and profeſſion, gotten into your hands; Yet in this we ſhall not falle by Gods helpe; In endeavouring to preſerve our Allegeance to His Majeſtie and our fi<g ref="char:EOLhyphen"/>delity to His Poſterity after Him: Deſiting only t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be teſolved of this one queſtion by you as the latter ends Why the Houſe of Lords was waved in a matter of ſo great concernment to the Kingdome.</p>
+            <p>We beſeech God of his infinite mercy to reſtore His Majeſty in His good time from that ſad <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of affliction He is in, not only to the great hurt, but diſhonour alſo of this Nation; and that he will put ſome ſoftneſſe into your hearts, that you may yet thinke upon thoſe courſes that may be for the preſervation of this poore abuſed and bleeding Kingdome, from an utter and finall deſtruction.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
